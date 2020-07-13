@@ -1,3 +1,3 @@
-module github.com/renxiaotu/go/bytes/tobytes
+module github.com/renxiaotu/dtc/tobytes
 
 go 1.14

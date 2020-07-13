@@ -1,3 +1,3 @@
-module github.com/renxiaotu/go/bytes/frombytes
+module github.com/renxiaotu/dtc/frombytes
 
 go 1.14
